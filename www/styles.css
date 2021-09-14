@@ -1,0 +1,28 @@
+/*empty strings fix*/
+.selectize-dropdown-content div{
+	min-height:30px;
+}
+
+#messages {
+	white-space: pre-wrap;
+}
+
+/*
+div[value="Features/RDS help"]{
+	max-width: 250px;
+}
+div[value="Signals help"]{
+	max-width: 250px;
+}
+div[value="Images help"]{
+	max-width: 250px;
+}
+div[value="Metadata help"]{
+	max-width: 250px;
+}
+
+
+.col-sm-2 {
+	margin-top: 20px;
+}
+*/ 
